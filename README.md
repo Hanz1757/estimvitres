@@ -1,6 +1,3 @@
-# estimvitres
-Android app for estimating the time and cost of window cleaning 
-
 # EstimVitres
 
 🇫🇷 Application Android pour laveurs de vitres : estime rapidement le **temps** et le **prix** d'un chantier. Outil interne de calcul — pas un devis officiel.
